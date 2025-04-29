@@ -1,5 +1,5 @@
 Project made at UMSL. It is a global scope parser. Language Definions are below.
-
+```text
 /*
  * Language BNF
  * 
@@ -25,6 +25,7 @@ Project made at UMSL. It is a global scope parser. Language Definions are below.
  * <N2>         -> / <N> | empty
  * <R>          -> ( <exp> ) | identifier | integer
  */
+```
  
  /*
 Lexical Definitions
