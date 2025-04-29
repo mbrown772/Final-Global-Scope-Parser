@@ -1,0 +1,4 @@
+program
+start
+  print 2 - 19 - 7 / 2 % - - 3 % 2 ;
+stop
