@@ -25,7 +25,7 @@ Project made at UMSL. It is a global scope parser. Language Definions are below.
  * <N2>         -> / <N> | empty
  * <R>          -> ( <exp> ) | identifier | integer
  */
-```
+
  
  /*
 Lexical Definitions
@@ -63,3 +63,4 @@ Static Semantics Definition
     + Variable must be defined before its first use, otherwise the variable is reported as an error and the program exits
     + A defined variable must be used, otherwise report a detailed warning and continue the program
 */
+```
